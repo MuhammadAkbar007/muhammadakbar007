@@ -10,6 +10,7 @@
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![snake gif](https://raw.githubusercontent.com/muhammadakbar007/muhammadakbar007/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/muhammadakbar007/muhammadakbar007/output/github-contribution-grid-snake-dark.svg)
 
 ![Streak](https://streak-stats.demolab.com?user=muhammadakbar007&theme=tokyonight)
 
