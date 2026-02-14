@@ -9,10 +9,9 @@
 ![Neovim](https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![snake gif](https://raw.githubusercontent.com/muhammadakbar007/muhammadakbar007/output/github-contribution-grid-snake-dark.svg)
-![snake gif](https://raw.githubusercontent.com/muhammadakbar007/muhammadakbar007/output/github-contribution-grid-snake-dark.svg)
-
-![Streak](https://streak-stats.demolab.com?user=muhammadakbar007&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadakbar007&theme=tokyo-night)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/muhammadakbar007/muhammadakbar007/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake gif" 
+       src="https://raw.githubusercontent.com/muhammadakbar007/muhammadakbar007/output/github-contribution-grid-snake.svg" />
+</picture>
