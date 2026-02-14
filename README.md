@@ -23,7 +23,7 @@ Currently expanding into Python and learning AI/ML.
 
 > "Code is not just syntax. It is architecture, discipline, and intent."
 
-![snake gif](https://github.com/muhammadakbar007/muhammadakbar007/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/muhammadakbar007/muhammadakbar007/output/github-contribution-grid-snake.svg)
 
 ![Streak](https://streak-stats.demolab.com?user=muhammadakbar007&theme=tokyonight)
 
